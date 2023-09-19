@@ -1,0 +1,59 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32def.inc</FILE>
+  <FILE>D:/7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\Debug\MIP_project_final.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MIP_project_final.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MIP_project_final.map</FILE>
+  <FILE>MIP_project_final.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>19</LINE></MAIN>
+  <EX0_ISR><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>163</LINE></EX0_ISR>
+  <EX1_ISR><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>289</LINE></EX1_ISR>
+  <EX2_ISR><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>315</LINE></EX2_ISR>
+  <DELAY_2ms><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>369</LINE></DELAY_2ms>
+  <CMNDWRT><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>445</LINE></CMNDWRT>
+  <DATAWRT><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>455</LINE></DATAWRT>
+  <INCREASE_SPEED><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>129</LINE></INCREASE_SPEED>
+  <OBJECT_DETECTION><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>134</LINE></OBJECT_DETECTION>
+  <SDELAY><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>344</LINE></SDELAY>
+  <DELAY_6ms><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>379</LINE></DELAY_6ms>
+  <CLEAR_FLAG1><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>262</LINE></CLEAR_FLAG1>
+  <DIVIDE><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>419</LINE></DIVIDE>
+  <BIN_ASCII_CONVERT><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>429</LINE></BIN_ASCII_CONVERT>
+  <DELAY_500ms><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>389</LINE></DELAY_500ms>
+  <KEEP_POLLING><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>196</LINE></KEEP_POLLING>
+  <EXIT1><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>284</LINE></EXIT1>
+  <DONT_REVERSE><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>255</LINE></DONT_REVERSE>
+  <DELAY_1s><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>399</LINE></DELAY_1s>
+  <EXIT2><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>309</LINE></EXIT2>
+  <EXIT3><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>337</LINE></EXIT3>
+  <DELAY_50us><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>349</LINE></DELAY_50us>
+  <DR0><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>352</LINE></DR0>
+  <DELAY_100us><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>359</LINE></DELAY_100us>
+  <DR1><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>362</LINE></DR1>
+  <DR2><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>372</LINE></DR2>
+  <DR3><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>382</LINE></DR3>
+  <DR4><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>392</LINE></DR4>
+  <DR5><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>402</LINE></DR5>
+  <DELAY_2s><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>409</LINE></DELAY_2s>
+  <DR6><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>412</LINE></DR6>
+  <L11><FILE>C:\Users\Subata\Desktop\mip project final\MIP_project_final\MIP_project_final\main.asm</FILE><LINE>421</LINE></L11>
+ </LABELS>
+</ASSEMBLER_INFO>
